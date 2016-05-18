@@ -15,7 +15,7 @@
 		"s1":{							
 			"default_component":"block-img-title-content",
 			"extended_default_component":true,
-			"dragdrop":true,
+			"dragdrop":false,
 			"remove":true,
 			"edit_this":true,
 			"new":true
@@ -23,7 +23,7 @@
 		"s2":{
 			"default_component":"block-title-h2",
 			"extended_default_component":true,
-			"dragdrop":true,
+			"dragdrop":false,
 			"remove":true,
 			"edit_this":true,
 			"new":true
