@@ -1,12 +1,12 @@
 {
 	"properties":{
-		"global_source":"github", /* localhost, github */
-		"global_upload":"github", /* localhost, github */
+		"global_source":"github",
+		"global_upload":"github",
 		"page_title":"Relu person",
 		"page_slug":"relu-person",
 		"boilerplate":"relu-person",
-		"components_path":"relu-org/ArthurWellesleyComponents/", /* organisation/repo */
-		"css_source":"relu-org/ArthurWellesleyCSSconcept/", /* organisation/repo */
+		"components_path":"relu-org/ArthurWellesleyComponents/",
+		"css_source":"relu-org/ArthurWellesleyCSSconcept/", 
 		"css_structure":"abrahamlincoln",
 		"css_dimensions":"abrahamlincoln",
 		"css_visual":"abrahamlincoln"
