@@ -13,7 +13,7 @@
 	},
 	"schema":{
 		"s1":{							
-			"default_component":"block-img-title-content",
+			"default_component":"block-img-title-content.doT.html",
 			"extended_default_component":true,
 			"dragdrop":false,
 			"remove":true,
@@ -21,7 +21,7 @@
 			"new":true
 		},
 		"s2":{
-			"default_component":"block-title-h2",
+			"default_component":"block-title-h2.doT.html",
 			"extended_default_component":true,
 			"dragdrop":false,
 			"remove":true,
@@ -29,7 +29,7 @@
 			"new":true
 		},
 		"s3":{
-			"default_component":"block-img",
+			"default_component":"block-img.doT.html",
 			"extended_default_component":true,
 			"dragdrop":true,
 			"remove":true,
@@ -37,7 +37,7 @@
 			"new":true
 		},
 		"s4":{
-			"default_component":"block-title-h2",
+			"default_component":"block-title-h2.doT.html",
 			"extended_default_component":true,
 			"dragdrop":true,
 			"remove":true,
@@ -45,7 +45,7 @@
 			"new":true
 		},
 		"s5":{
-			"default_component":"block-img",
+			"default_component":"block-img.doT.html",
 			"extended_default_component":true,
 			"dragdrop":true,
 			"remove":true,
@@ -53,7 +53,7 @@
 			"new":true
 		},
 		"s6":{
-			"default_component":"block-title-content",
+			"default_component":"block-title-content.doT.html",
 			"extended_default_component":true,
 			"dragdrop":true,
 			"remove":true,
@@ -61,7 +61,7 @@
 			"new":true
 		},
 		"s7":{
-			"default_component":"block-title-content",
+			"default_component":"block-title-content.doT.html",
 			"extended_default_component":true,
 			"dragdrop":true,
 			"remove":true,
